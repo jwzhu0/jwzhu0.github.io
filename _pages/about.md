@@ -7,4 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of Computer Science and Technology](https://eecs.pku.edu.cn/), [Zhejiang University of Technology](https://www.pku.edu.cn/). My research interest includes computer vision (Super Resolution, Spatial-Spectral Fusion), neural operator, machine learning. I am advised by [Prof. Jianwei Zheng](https://XXX.pku.edu.cn/) from [School of Computer Science and Technology](https://cs.pku.edu.cn/), Zhejiang University of Technology.[Email](mailto:jwzhu@zjut.edu.cn) / [Github](https://github.com/jwzhu0) / [Wechat](../images/wechat.jpg)
+I'm a master student  from School of Computer Science and Technology, Zhejiang University of Technology. My research interest includes computer vision (super resolution, spatial-spectral fusion), neural operator, machine learning. 
+
+I am advised by [Prof. Jianwei Zheng](https://zhengjianwei2.github.io/) from School of Computer Science and Technology, Zhejiang University of Technology.
+
+[Email](mailto:jwzhu@zjut.edu.cn) / [Github](https://github.com/jwzhu0) / [Wechat](../images/wechat.jpg)
