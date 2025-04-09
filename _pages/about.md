@@ -11,4 +11,4 @@ I'm a master student  from School of Computer Science and Technology, Zhejiang U
 
 I am advised by [Prof. Jianwei Zheng](https://zhengjianwei2.github.io/) from School of Computer Science and Technology, Zhejiang University of Technology.
 
-[Email](mailto:jwzhu@zjut.edu.cn) / [Github](https://github.com/jwzhu0) / [Wechat](../images/wechat.jpg)
+[Email](mailto:jwzhu@zjut.edu.cn) / [Github](https://github.com/jwzhu0)
