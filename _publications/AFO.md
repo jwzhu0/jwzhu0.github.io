@@ -3,7 +3,7 @@ title: "Arbitrary-scale Fusion Operator for High-resolution Hyperspectral Imagin
 collection: publications
 category: manuscripts
 permalink: /publication/AFO
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper provides a more detailed exploration of how neural operators can be used to achieve arbitrary-scale spectral fusion.'
 date: 2025-07-14
 venue: 'IEEE Transactions on Multimedia'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
