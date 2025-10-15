@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/AFNO
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-7
+date: 2025-07-06
 venue: 'In Proc. ACMMM'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
